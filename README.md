@@ -170,20 +170,6 @@ Example Response
 
 ---
 
-## Future Enhancements
-
-- Domain reputation lookup
-- URL reputation lookup
-- File hash lookup
-- GreyNoise integration
-- AlienVault OTX integration
-- Splunk MCP tools
-- SentinelOne MCP tools
-- Jira MCP integration
-- Swimlane MCP integration
-
----
-
 ## Learning Objectives
 
 This project demonstrates:
